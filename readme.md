@@ -1,3 +1,10 @@
+# Project Readme: Initial Delivery
+
+## Notes on JSON file changes
+
+This document introduces the first delivery of the test project for Zoe Financial. For the server side, 200 personas have been added for testing, but there is information missing and also some profile picture links are broken. Work in progress.
+
+
 # API Spec
 
 To run the API, use the following command:
